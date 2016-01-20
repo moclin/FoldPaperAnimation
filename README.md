@@ -37,3 +37,5 @@ Make the UIView esay to achieve effect of paper fold.
 //有动画展开
 - (void)foldWithFolds:(NSInteger)folds duration:(CGFloat)duration completion:(void (^)(BOOL finished))completion;
 //有动画折叠
+
+ ![image](https://github.com/moclin/FoldPaperAnimation/raw/master/FoldPaperAnimation/demo@2x.png)
