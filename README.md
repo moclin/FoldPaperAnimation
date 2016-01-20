@@ -11,6 +11,7 @@ Make the UIView esay to achieve effect of paper fold.
 1. #import "UIView+Fold.h"
 
 2. use the following API to …
+
 - (void)unfoldWithoutAnimation; //To unfold without animation.
 - (void)foldWithoutAnimation; //To fold without animation.
 - (void)unfoldWithFolds:(NSInteger)folds duration:(CGFloat)duration completion:(void (^)(BOOL finished))completion;
@@ -29,6 +30,7 @@ Make the UIView esay to achieve effect of paper fold.
 1. #import "UIView+Fold.h"
 
 2. 使用以下API可快速地实现…
+
 - (void)unfoldWithoutAnimation; //无动画展开
 - (void)foldWithoutAnimation; //无动画折叠
 - (void)unfoldWithFolds:(NSInteger)folds duration:(CGFloat)duration completion:(void (^)(BOOL finished))completion;
