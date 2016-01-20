@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DA1BE6F51C4F3613007C258B /* demo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DA1BE6F41C4F3613007C258B /* demo@2x.png */; };
 		DAD9AE731C4CF5D600C5DF51 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DAD9AE721C4CF5D600C5DF51 /* main.m */; };
 		DAD9AE761C4CF5D600C5DF51 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DAD9AE751C4CF5D600C5DF51 /* AppDelegate.m */; };
 		DAD9AE791C4CF5D600C5DF51 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DAD9AE781C4CF5D600C5DF51 /* ViewController.m */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DA1BE6F41C4F3613007C258B /* demo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "demo@2x.png"; sourceTree = "<group>"; };
 		DAD9AE6E1C4CF5D600C5DF51 /* FoldPaperAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoldPaperAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAD9AE721C4CF5D600C5DF51 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		DAD9AE741C4CF5D600C5DF51 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 		DAD9AE701C4CF5D600C5DF51 /* FoldPaperAnimation */ = {
 			isa = PBXGroup;
 			children = (
+				DA1BE6F41C4F3613007C258B /* demo@2x.png */,
 				DAD9AEA71C4E413F00C5DF51 /* pic.jpg */,
 				DAD9AE741C4CF5D600C5DF51 /* AppDelegate.h */,
 				DAD9AE751C4CF5D600C5DF51 /* AppDelegate.m */,
@@ -255,6 +258,7 @@
 				DAD9AE811C4CF5D600C5DF51 /* LaunchScreen.storyboard in Resources */,
 				DAD9AE7E1C4CF5D600C5DF51 /* Assets.xcassets in Resources */,
 				DAD9AE7C1C4CF5D600C5DF51 /* Main.storyboard in Resources */,
+				DA1BE6F51C4F3613007C258B /* demo@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -506,6 +510,7 @@
 				DAD9AE9D1C4CF5D600C5DF51 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DAD9AE9E1C4CF5D600C5DF51 /* Build configuration list for PBXNativeTarget "FoldPaperAnimationTests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +519,7 @@
 				DAD9AEA01C4CF5D600C5DF51 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DAD9AEA11C4CF5D600C5DF51 /* Build configuration list for PBXNativeTarget "FoldPaperAnimationUITests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +528,7 @@
 				DAD9AEA31C4CF5D600C5DF51 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
