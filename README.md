@@ -1,6 +1,6 @@
 # FoldPaperAnimation
 FoldPaperAnimation
-\n
+
  ![image](https://github.com/moclin/FoldPaperAnimation/raw/master/FoldPaperAnimation/demo@2x.png)
 
 #English
